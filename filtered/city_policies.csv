@@ -1,0 +1,101 @@
+City,Requires De-Escalation,Has Use of Force Continuum,Bans Chokeholds and Strangleholds,Requires Warning Before Shooting,Restricts Shooting at Moving Vehicles,Requires Exhaust All Other Means Before Shooting,Duty to Intervene,Requires Comprehensive Reporting
+Albuquerque,True,True,True,True,False,False,True,True
+Anaheim,False,True,False,True,False,False,True,False
+Anchorage,True,True,False,False,True,False,False,False
+Arlington,True,True,False,False,False,True,True,True
+Atlanta,False,True,True,False,False,False,False,False
+Aurora,False,True,False,False,True,True,True,True
+Austin,False,True,False,True,False,False,True,False
+Bakersfield,False,False,False,True,False,False,True,False
+Baltimore,True,True,True,True,False,True,True,True
+Baton Rouge,False,True,True,True,False,True,True,False
+Birmingham,False,True,False,False,False,False,False,False
+Boston,False,True,True,False,True,True,False,False
+Buffalo,True,True,False,False,True,True,False,False
+Chandler,True,True,False,True,False,True,True,False
+Charlotte,True,True,False,True,False,False,False,False
+Chesapeake,False,True,False,True,False,True,False,False
+Chicago,True,True,True,True,False,True,True,True
+Chula Vista,False,False,False,True,False,False,True,False
+Cincinnati,True,True,True,True,True,True,True,False
+Cleveland,True,True,True,True,True,False,True,False
+Colorado Springs,False,False,False,True,False,False,True,True
+Columbus,True,True,True,True,False,False,False,False
+Corpus Christi,True,False,True,True,False,True,True,False
+Dallas,True,True,False,False,False,True,False,True
+Denver,True,True,True,True,True,True,False,False
+Detroit,False,True,True,True,False,True,False,False
+Durham,True,True,False,False,False,False,False,False
+El Paso,False,True,False,True,False,True,False,False
+Fort Wayne,False,True,False,True,False,False,False,True
+Fort Worth,True,True,True,True,True,False,True,False
+Fremont,False,False,False,True,False,False,True,False
+Fresno,False,False,False,True,False,False,True,False
+Garland,False,False,True,True,False,False,False,False
+Glendale,False,True,False,False,False,True,False,False
+Greensboro,True,False,False,False,False,False,False,False
+Henderson,True,True,False,False,False,True,True,False
+Hialeah,False,True,False,False,False,False,True,False
+Honolulu,True,True,False,True,False,False,False,True
+Houston,False,True,False,False,False,False,True,True
+Indianapolis,False,False,False,True,False,False,False,False
+Irvine,False,True,False,True,False,False,True,False
+Irving,False,False,False,False,False,False,False,True
+Jacksonville,False,True,True,True,False,False,False,False
+Jersey City,False,True,False,True,False,True,False,False
+"Kansas City, MO",False,False,False,False,False,False,False,False
+Laredo,False,True,False,True,False,True,False,False
+Las Vegas,True,True,False,True,False,False,True,False
+Lexington,False,True,False,False,False,True,False,True
+Lincoln,True,True,False,False,False,True,False,False
+Long Beach,False,False,False,True,False,True,False,False
+Los Angeles,True,True,True,False,True,False,True,False
+Louisville,True,True,False,True,False,True,False,False
+Lubbock,False,True,False,False,False,True,False,False
+Madison,True,True,True,True,False,True,True,True
+Memphis,False,True,False,True,False,True,False,False
+Mesa,False,True,False,True,False,False,False,False
+Miami,True,True,True,True,False,True,True,False
+Milwaukee,False,True,False,True,False,False,True,False
+Minneapolis,True,True,False,True,False,False,True,False
+Nashville,False,True,False,True,False,True,False,False
+New Orleans,True,True,True,False,True,False,True,True
+New York,True,True,False,False,True,False,True,False
+Newark,False,True,False,True,False,True,True,False
+Norfolk,True,True,False,False,False,False,True,False
+North Las Vegas,False,False,False,False,False,True,False,False
+Oakland,True,True,False,False,False,True,True,True
+Oklahoma City,True,True,False,True,False,True,True,False
+Omaha,False,True,False,True,False,False,False,False
+Orlando,False,True,False,False,True,False,True,False
+Philadelphia,True,True,True,True,True,True,True,False
+Phoenix,False,True,False,True,False,False,True,True
+Pittsburgh,True,True,True,True,False,False,False,False
+Plano,False,True,True,True,False,True,False,True
+Portland,True,True,False,True,False,False,True,True
+Raleigh,False,True,False,True,False,True,True,True
+Reno,False,False,False,False,False,False,False,False
+Riverside,True,True,False,True,False,False,True,False
+Rochester,False,True,False,False,False,False,False,False
+Sacramento,True,False,False,True,False,True,True,True
+San Antonio,True,True,True,False,False,False,True,False
+San Bernardino,True,True,False,True,False,False,True,False
+San Diego,False,True,False,True,False,True,False,True
+San Francisco,True,True,True,True,True,True,True,True
+San Jose,True,True,True,True,False,False,False,True
+Santa Ana,False,True,False,True,False,False,True,False
+Scottsdale,False,True,False,True,False,False,False,False
+Seattle,True,True,True,True,False,False,True,True
+Spokane,False,True,False,True,False,False,True,True
+St. Louis,False,True,False,True,True,True,False,False
+St. Paul,True,True,False,True,True,False,True,True
+St. Petersburg,True,True,True,True,True,True,False,False
+Stockton,True,False,False,True,False,True,True,False
+Tampa,False,True,False,False,False,False,False,False
+Toledo,False,True,False,True,False,False,False,False
+Tucson,True,True,True,True,True,True,True,True
+Tulsa,True,True,False,True,False,False,False,False
+Virginia Beach,True,False,True,True,False,False,True,True
+Washington DC,True,True,True,True,False,True,True,True
+Wichita,False,True,False,True,False,False,False,True
+Winston-Salem,True,True,False,True,False,False,False,True
